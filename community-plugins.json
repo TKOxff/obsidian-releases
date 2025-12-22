@@ -19024,5 +19024,12 @@
     "author": "Musashino Software",
     "description": "AI-powered speech-to-text transcription using OpenAI GPT-4o and Whisper APIs.",
     "repo": "mssoftjp/obsidian-ai-transcriber"
+  },
+  {
+    "id": "inline-local-graph",
+    "name": "Inline Local Graph",
+    "author": "TKOxff",
+    "description": "A plugin that allows you to visualize the local graph inline within your notes.",
+    "repo": "TKOxff/obsidian-inline-local-graph"
   }
 ]
